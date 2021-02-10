@@ -338,5 +338,7 @@ address h2::after{
         margin-right: 50px;
         font-size: 17px;
     }
-    
+    .box1 {
+        margin-left: 20px;
+    }
 }
